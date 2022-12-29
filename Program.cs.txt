@@ -1,0 +1,48 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data.SqlTypes;
+using System.Dynamic;
+using System.Linq;
+using System.Security.Cryptography.X509Certificates;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TicTacToe
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            static void BuildGameBoard()
+                Public Board = BuildGameBoard
+                  Program Display Board Options to User 
+                  Options = Board Sizes 
+               Public Static Sizes = { "Small Board" and "Big Board"}
+                "small Board" =SmallBoard 
+                "Big Board" =BigBoard
+
+            SmallBoard = {
+                { " ","|"," ","|"," "}
+                { " ","|"," ","|"," "}
+                { " ","|"," ","|"," "}
+            }
+
+            BigBoard = {
+                { " ","|"," ","|"," "}
+                { " ","|"," ","|"," "}
+                { " ","|"," ","|"," "}
+                { " ","|"," ","|"," "}
+            }
+            Program Create Board based on Player 1 Sizes input
+
+
+
+
+            static void StartGame()
+            static void EndGame()
+            static void PlayerMove()
+            static void CheckGmaeStatus()
+
+        }
+    }
+}
